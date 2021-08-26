@@ -10,6 +10,14 @@
         "lint": "eslint .",
         "debug": "open \"rndebugger://set-debugger-loc?host=localhost&port=8081\""
     },
+    "keywords": [
+        "react",
+        "react native",
+        "react-native",
+        "trivia",
+        "quiz",
+        "opentdb-api"
+    ],
     "dependencies": {
         "@react-native-community/masked-view": "^0.1.10",
         "@react-navigation/native": "^5.1.7",
